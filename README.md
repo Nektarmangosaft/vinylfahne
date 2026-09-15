@@ -1,5 +1,5 @@
 # vinylfahne
-Vinylfinder by AHNE - VinylFAHNE
+Vinylfinder by NMSAFT
 # Vinyl Finder (MVP)
 
 Durchsucht den Discogs-Marketplace nach Vinyls, reichert Ergebnisse mit BPM/Key an
